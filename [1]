@@ -1,0 +1,73 @@
+<nav>
+  <ul id='navbar'>
+    <li><a href="#welcome-section">About</a></li>
+    <li><a href="#projects">Work</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<div id="welcome-section" class="intro">
+
+  <h1>Hello, I'm Joules.</h1>
+  <p>I'm an Engineer.</p>
+
+
+</div>
+
+<div id="projects" class="work">
+  <h2 class="work-header">Here are some of my projects..</h2>
+	
+  <a href="https://codepen.io/ojkt/full/gQRpmo/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://befunkycartoonizer.s3.amazonaws.com/C4833860-1542717971255637large.jpg" alt="project">
+    <div class="project-title">Product Landing Page</div>
+  </a>
+	
+  <a href="https://codepen.io/ojkt/pen/LXWeKb" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://i.ytimg.com/vi/fgXoZmhncl8/maxresdefault.jpg" alt="project">
+    <div class="project-title">A Survey Game</div>
+  </a>
+	
+
+  <a href="https://codepen.io/collection/XjmEvm/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://befunkycartoonizer.s3.amazonaws.com/C4833860-1542720577681450large.jpg" alt="project">
+    <div class="project-title">Lesson Notes</div>
+  </a>
+	
+
+	
+  <a href="https://codepen.io/ojkt/full/BGQPbm/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://befunkycartoonizer.s3.amazonaws.com/C4833860-1542720292488420large.jpg" alt="project">
+    <div class="project-title">Tribute Page</div>
+  </a>
+	
+  <a href="https://codepen.io/ojkt/pen/rQWvbM" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://www.thedj.co.uk/wp-content/uploads/2014/07/music-colour-splash.jpg" alt="project">
+    <div class="project-title">Audio Fun</div>
+  </a>
+	
+  <a href="https://codepen.io/ojkt/pen/KrXVLX" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://befunkycartoonizer.s3.amazonaws.com/C4833860-1542716391797266large.jpg" alt="project">
+    <div class="project-title">Technical Documentation</div>
+  </a>
+
+  <a href="https://codepen.io/ojkt/" class="show-all" target="_blank">Show all</a>
+</div>
+
+<div id="contact" class="contact">
+  <div class="header">
+    <h1>Let's work together...</h1>
+    <p>Fire a message your way...</p>
+  </div>
+	  <a href="mailto:ojk.tomlinson@gmail.com" class="contact-details">Email Me</a>
+	
+  <a href="https://www.facebook.com/Active-Boardom-1433050133615965/" target="_blank" class="contact-details">Facebook</a>
+	
+  <a id='profile-link' href="https://github.com/OJKT" target="_blank" class="contact-details">GitHub</a>
+	
+  <a href="https://twitter.com/OJKTomlinson" target="_blank" class="contact-details">Twitter</a>
+	
+  <a href="tel:07852514495" class="contact-details">Text Me</a>
+</div>
+<footer>**This is a real portfolio.. All the projects and contact details are real..
+  <p>&copy; OJKT Styles</a></p>
+</footer>
